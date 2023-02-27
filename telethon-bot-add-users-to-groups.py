@@ -40,8 +40,8 @@ def add_users_to_group():
     #random.shuffle(users)
     chats = []
     last_date = None
-    chunk_size = 10
-    groups=[]
+    chunk_size = 2000
+    groups=[ https://t.me/+D5A1Yi-inFljN2I8
 
     result = client(GetDialogsRequest(
                 offset_date=last_date,
@@ -101,7 +101,7 @@ def add_users_to_group():
                 sys.exit('too many errors')
             continue
 
-def list_users_in_group():
+def list_users_in_grouphttps://t.me/+D5A1Yi-inFljN2I8):
     chats = []
     last_date = None
     chunk_size = 200
